@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		271C9E6C1D711B0B003E77F4 /* Macro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 271C9E6B1D711B0B003E77F4 /* Macro.swift */; };
 		277AA0DB1D70BB900035A5F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277AA0DA1D70BB900035A5F1 /* AppDelegate.swift */; };
 		277AA0DD1D70BB900035A5F1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277AA0DC1D70BB900035A5F1 /* ViewController.swift */; };
 		277AA0E01D70BB900035A5F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277AA0DE1D70BB900035A5F1 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		271C9E6B1D711B0B003E77F4 /* Macro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Macro.swift; sourceTree = "<group>"; };
 		277AA0D71D70BB900035A5F1 /* ZNshakeEffect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZNshakeEffect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		277AA0DA1D70BB900035A5F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		277AA0DC1D70BB900035A5F1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 			children = (
 				277AA0D91D70BB900035A5F1 /* ZNshakeEffect */,
 				277AA0D81D70BB900035A5F1 /* Products */,
+				271C9E6B1D711B0B003E77F4 /* Macro.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				277AA0DD1D70BB900035A5F1 /* ViewController.swift in Sources */,
+				271C9E6C1D711B0B003E77F4 /* Macro.swift in Sources */,
 				277AA0DB1D70BB900035A5F1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +290,7 @@
 				277AA0EB1D70BB900035A5F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

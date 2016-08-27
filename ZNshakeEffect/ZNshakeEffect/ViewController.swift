@@ -8,7 +8,6 @@
 
 import UIKit
 
-func angleToRadio(angle : Double) -> (Double) {return angle * M_PI / 180.0}
 
 
 class ViewController: UIViewController {
@@ -38,6 +37,6 @@ class ViewController: UIViewController {
         
         
     }
-
+    
 }
 
